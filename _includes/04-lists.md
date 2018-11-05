@@ -1,0 +1,3 @@
+- fruits
+- vegetables
+- meat
